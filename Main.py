@@ -1,6 +1,5 @@
 class Main:
-    pass
-
+    
 
 print("Testando Projeto")
 
